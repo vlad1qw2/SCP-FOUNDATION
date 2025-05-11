@@ -1,0 +1,9 @@
+/scp_clone
+├── index.html
+├── style.css
+├── script.js
+├── data.json
+└── objects/
+    ├── scp-001.html
+    ├── scp-002.html
+    └── ...

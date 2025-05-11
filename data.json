@@ -1,0 +1,16 @@
+[
+    {
+        "id": "SCP-001",
+        "name": "The Gate Guardian",
+        "class": "Keter",
+        "description": "A massive being, resembling a guardian of a gate, it has immense power and unpredictable behavior.",
+        "link": "objects/scp-001.html"
+    },
+    {
+        "id": "SCP-002",
+        "name": "The Living Room",
+        "class": "Euclid",
+        "description": "An anomalous room that appears to be a typical living room, but its contents constantly change and become hazardous.",
+        "link": "objects/scp-002.html"
+    }
+]
